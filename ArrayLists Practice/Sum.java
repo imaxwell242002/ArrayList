@@ -5,7 +5,6 @@ public void sumMethod() {
     Numbers.add(12);
     Numbers.add(1);
     Numbers.add(5);
-    Numbers.add(7);
     int sum=0;
     int product=1;
     for(int i=0;i<Numbers.size();i++){
